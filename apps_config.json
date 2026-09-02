@@ -1,0 +1,16 @@
+[
+  {
+    "app_name": "Wikipedia Android",
+    "version": "2.7.50449",
+    "source_url": "https://f-droid.org/packages/org.wikipedia/",
+    "apk_download_url": "https://f-droid.org/repo/org.wikipedia_50449.apk",
+    "package_name": "org.wikipedia"
+  },
+  {
+    "app_name": "Swag Labs Mobile",
+    "version": "1.3.0",
+    "source_url": "https://github.com/saucelabs/sample-app-mobile",
+    "apk_download_url": "https://github.com/saucelabs/sample-app-mobile/releases/download/1.3.0/Android.SauceLabs.Mobile.Sample.app.1.3.0.apk",
+    "package_name": "com.swaglabsmobileapp"
+  }
+]
